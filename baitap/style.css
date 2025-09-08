@@ -1,0 +1,138 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    background-color: #0c4ca3;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+li {
+    padding: 20px;
+}
+
+.border {
+    border-right: 1px solid grey;
+}
+
+.danhmuc-lienket {
+    color: white;
+    text-decoration: none;
+}
+
+.banner1 {
+    display: flex;
+    justify-content: center;
+}
+
+.banner2 {
+    display: flex;
+    justify-content: center;
+    margin: 15px auto;
+}
+
+header {
+    border-bottom: 10px solid #f1f1f2;
+}
+
+.tintuc,
+.thongbao1,
+.thongbao2,.hoatdong,.doitac {
+    width: 80%;
+    margin: 10px auto;
+}
+
+.chu,
+.thongbao1, .hoatdong1, .doitac1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+}
+
+.chu,
+.thongbao1, .hoatdong1, .doitac1 h2 {
+    margin: 0;
+    font-size: 22px;
+    color: #0056a3;
+    position: relative;
+}
+
+.chu,
+.thongbao1 a {
+    font-size: 14px;
+    color: #888;
+    text-decoration: none;
+}
+
+.thongtin {
+    display: flex;
+    justify-content: center;
+}
+
+.thongtin1,
+.thongtin2,
+.thongtin3,
+.thongtin4 ul {
+    padding-left: 18px;
+    margin: 0;
+}
+
+.thongtin1,
+.thongtin2,
+.thongtin3,
+.thongtin4 li {
+    font-size: 14px;
+    color: #0056a3;
+    margin: 5px 0;
+}
+
+.thongbao {
+    background: #ccc;
+}
+
+.thognbao22 ul {
+    list-style: square;
+    margin: 0;
+    padding-left: 18px;
+}
+
+.thognbao22 li {
+    margin-bottom: 8px;
+}
+
+.thognbao22 a {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+}
+
+.thongbao2 {
+    display: flex;
+    justify-content: center;
+}
+
+.thongtintuyensinh {
+    width: 80%;
+    margin: 10px auto;
+}
+
+.tren {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+}
+.duoi, .hoatdong2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
