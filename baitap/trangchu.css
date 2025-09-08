@@ -1,0 +1,27 @@
+body {
+    background: black;
+}
+
+.tong {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.phan1,
+.phan3 {
+    width: 24%;
+    background: rgb(108, 110, 110);
+    height: 1000px;
+    color: white;
+}
+
+.phan2 {
+    width: 50%;
+    background: rgb(108, 110, 110);
+    height: 1000px;
+    border-radius: 5px;
+}
+.phan3 img{
+    width: 97%;
+}

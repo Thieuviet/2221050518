@@ -96,18 +96,23 @@ header {
 .thongbao {
     background: #ccc;
 }
+.thongbao1{
+    width: 80%;
+    margin: 10px auto;
+}
 
-.thognbao22 ul {
+
+.thongbao22 ul {
     list-style: square;
     margin: 0;
     padding-left: 18px;
 }
 
-.thognbao22 li {
+.thongbao22 li {
     margin-bottom: 8px;
 }
 
-.thognbao22 a {
+.thongbao22 a {
     text-decoration: none;
     color: #000;
     font-size: 14px;
@@ -135,4 +140,11 @@ header {
     display: flex;
     justify-content: center;
     gap: 30px;
+}
+.tongvideo{
+    width: 80%;
+    height: 600px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
 }
