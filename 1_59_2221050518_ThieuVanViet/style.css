@@ -1,0 +1,64 @@
+.logo{
+    display: flex;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+
+}
+.logo1{
+    display: flex;
+}
+
+.logo2 nav{
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    background-color: aqua;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+li {
+    padding: 20px;
+}
+
+.danhmuc-lienket {
+    color: white;
+    text-decoration: none;
+}
+
+/* main */
+
+.main{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.mani1{
+    width: 75%;
+}
+.main2{
+    width: 25%;
+}
+
+.main21, .main22{
+    background-color: azure;
+    border-radius: 10px;
+    height: 170px;
+}
+.main h2, .main p, .main span{
+    margin: 10px 0px 0px 20px;
+}
+.main span{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
